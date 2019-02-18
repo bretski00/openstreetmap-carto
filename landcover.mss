@@ -1,12 +1,12 @@
 // --- Parks, woods, other green things ---
 
-@grass: #cdebb0;        // Lch(90,32,128) also grassland, meadow, village_green, garden, allotments
-@scrub: #c8d7ab;        // Lch(84,24,122)
-@forest: #add19e;       // Lch(80,30,135)
-@forest-text: #46673b;  // Lch(40,30,135)
-@park: #c8facc;         // Lch(94,30,145)
-@allotments: #c9e1bf;   // Lch(87,20,135)
-@orchard: #aedfa3; // also vineyard, plant_nursery
+@grass: #000000;        // Lch(90,32,128) also grassland, meadow, village_green, garden, allotments
+@scrub: #000000;        // Lch(84,24,122)
+@forest: #000000;       // Lch(80,30,135)
+@forest-text: #000000;  // Lch(40,30,135)
+@park: #000000;         // Lch(94,30,145)
+@allotments: #000000;   // Lch(87,20,135)
+@orchard: #000000; // also vineyard, plant_nursery
 
 // --- "Base" landuses ---
 
@@ -39,7 +39,7 @@
 
 // --- Other ----
 
-@bare_ground: #eee5dc;
+@bare_ground: #000000;
 @campsite: #def6c0; // also caravan_site, picnic_site
 @cemetery: #aacbaf; // also grave_yard
 @construction: #c7c7b4; // also brownfield
